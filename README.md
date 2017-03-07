@@ -17,6 +17,12 @@
     pod 'IQKeyboardManagerSwift'
 ```
 
+Manager   
+```
+Manager/NetworkManager.swift
+
+```
+
 * [注:前言,xcode规范,工程规范,代码规范...](https://github.com/roycms/IosCodeSpecification)
 * [Swift开源项目推荐](SwiftProjectRecommend.md)
 * [参考](reference.md)
