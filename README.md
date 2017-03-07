@@ -1,13 +1,24 @@
 # swift项目开发最佳实践文档
 
-> swiftCodeSpecification
+> 项目开发最佳实践文档
 
-# 手册目录
+# 目录
 
-* [前言](why.md)
-* IOS规范
-    * [Xcode 工程规范](xcode-project.md)
-* [附录二 Swift开源项目推荐](SwiftProjectRecommend.md)
+项目引入框架包
+```
+    pod 'Alamofire'
+    pod 'SwiftyJSON'
+    pod 'Dollar'
+    pod 'SnapKit'
+    pod 'SDWebImage'
+    pod 'Toast-Swift'
+    pod 'SwiftHEXColors'
+    pod 'ReactiveSwift'
+    pod 'IQKeyboardManagerSwift'
+```
+
+* [注:前言,xcode规范,工程规范,代码规范...](https://github.com/roycms/IosCodeSpecification)
+* [Swift开源项目推荐](SwiftProjectRecommend.md)
 * [参考](reference.md)
 
 
