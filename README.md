@@ -23,7 +23,8 @@ Manager/NetworkManager.swift
 
 ```
 
-* [注:前言,xcode规范,工程规范,代码规范...](https://github.com/roycms/IosCodeSpecification)
+* [xcode规范,工程规范...参看](https://github.com/roycms/IosCodeSpecification)
+* [Swift编码最佳实践 Swift-Community-Best-Practices ](https://github.com/schwa/Swift-Community-Best-Practices)
 * [Swift开源项目推荐](SwiftProjectRecommend.md)
 * [参考](reference.md)
 
