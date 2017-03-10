@@ -17,9 +17,9 @@
     pod 'IQKeyboardManagerSwift'
 ```
 
-Manager   
+Manager   [NetworkManager link](https://github.com/RXTeams/NetworkManager) 
 ```
-Manager/NetworkManager.swift [NetworkManager link](https://github.com/RXTeams/NetworkManager)
+Manager/NetworkManager.swift 
 ```
 * [Swift中文手册](https://github.com/CocoaChina-editors/Welcome-to-Swift) [Swift学习资源](https://github.com/Lax/iOS-Swift-Demos)
 * [xcode规范,工程规范...参看](https://github.com/roycms/IosCodeSpecification)
