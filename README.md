@@ -21,7 +21,7 @@ Manager   [NetworkManager link](https://github.com/RXTeams/NetworkManager)
 ```
 Manager/NetworkManager.swift 
 ```
-* [Swift中文手册](https://github.com/CocoaChina-editors/Welcome-to-Swift) [Swift学习资源](https://github.com/Lax/iOS-Swift-Demos) http://wiki.jikexueyuan.com/project/swift/
+* [Swift中文手册](https://github.com/CocoaChina-editors/Welcome-to-Swift) [Swift学习资源](https://github.com/Lax/iOS-Swift-Demos) http://wiki.jikexueyuan.com/project/swift/ https://github.com/numbbbbb/the-swift-programming-language-in-chinese
 * [xcode规范,工程规范...参看](https://github.com/roycms/IosCodeSpecification)
 * [Swift编码最佳实践 Swift-Community-Best-Practices ](https://github.com/schwa/Swift-Community-Best-Practices)   [中文1](http://www.cocoachina.com/swift/20151010/13664.html)  [中文2](http://www.tuicool.com/articles/j67FNr)
 * [Swift开源项目推荐](SwiftProjectRecommend.md)
